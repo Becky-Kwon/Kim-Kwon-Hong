@@ -61,7 +61,7 @@
 
 **2) 데이터 모델링 단계**
 - `LDA 모델링` :  리뷰 데이터를 토픽 모델링 하여 소비자들의 서비스 평가 기준을 파악  
-*(관련 코드 :   "1.LDA+Inference.ipynb" 참조 )  *  
+*(관련 코드 :   "1.LDA+Inference.ipynb" 참조 )*  
 
 - `감성분석` :  각 리뷰를 토픽에 맞추어라벨링 한 후, 토픽 별로 감성 분석을 진행하여 추후 분석에 긍정 점수의 분산 값을 평가기준의 중요도 척도로 사용   
 *(관련 코드 :  "2.classifications_pytorch_kobert_yogiyo.ipynb" & "3.infer_sentimental.ipynb" 참조 )*    
